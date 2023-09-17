@@ -71,4 +71,4 @@ You will see three buttons on your screen. The play again button will allow you 
 
 #### Final Info
 
-If you have any further questions, find any bugs or have suggestions; please let me know in the comments! Now what are you waiting for? Go explore Game Galaxy and have fun!
+If you have any further questions, find any bugs or have suggestions, please email veloan.balendran@gmail.com.
